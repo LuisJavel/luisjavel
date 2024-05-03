@@ -1,8 +1,8 @@
-# Hi, I'm <username>! 👋
+# Hi, I'm Luis Javier Masaquiza! 👋
 
 Soy un apasionado estudiante didactico TI, impulsado por la curiosidad por la tecnología y el amor por la escritura. Mi viaje implica profundizar en el mundo de la informática, explorar nuevas ideas y compartir mis conocimientos con la comunidad.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<luisjavel>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
