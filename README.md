@@ -2,7 +2,7 @@
 
 Soy un apasionado estudiante didactico TI, impulsado por la curiosidad por la tecnología y el amor por la escritura. Mi viaje implica profundizar en el mundo de la informática, explorar nuevas ideas y compartir mis conocimientos con la comunidad.
 
-![<LuisJavel>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<LuisJavel>'s Stats](https://github-readme-stats.vercel.app/api?LuisJavel=<luisjavel>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -29,13 +29,12 @@ Soy un apasionado estudiante didactico TI, impulsado por la curiosidad por la te
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://twitter.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
