@@ -2,13 +2,13 @@
 
 Soy un apasionado estudiante didactico TI, impulsado por la curiosidad por la tecnología y el amor por la escritura. Mi viaje implica profundizar en el mundo de la informática, explorar nuevas ideas y compartir mis conocimientos con la comunidad.
 
-![<luisjavel>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<LuisJavel>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 Actualmente estoy estudiando Ciencias de la Computación.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- 🌐 Contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
