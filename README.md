@@ -16,7 +16,7 @@ Soy un apasionado estudiante didactico TI, impulsado por la curiosidad por la te
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
